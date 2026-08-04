@@ -1,3 +1,4 @@
+# bool() does not work directly as expected
 username = "preeshaan"
 password = "ABC"
 show_password = input("Do you want to show password?")

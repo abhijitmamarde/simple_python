@@ -16,6 +16,5 @@ for r in range(1, 5):
         count += 1
     print()
 
-print()
-
+print()   
 
