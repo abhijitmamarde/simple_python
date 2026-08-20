@@ -1,0 +1,20 @@
+[
+    {
+        "name": "preshaan",
+        "phone": 1234,
+        "age": 18,
+        "classes": [
+            "eng",
+            "computer",
+            "maths",
+            34
+        ],
+        "have_glasses": true,
+        "hobbies": null
+    },
+    {
+        "name": "abhi",
+        "age": 28,
+        "have_glasses": false
+    }
+]
